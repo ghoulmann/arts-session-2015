@@ -13,8 +13,9 @@ Contents:
 
    summary
    topics
-   session-leader
    activities
+   session-leader
+   
 
 
 

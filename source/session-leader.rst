@@ -63,3 +63,7 @@ Recommended Resources
 * Links to databending techniques/tutorials: http://danieltemkin.com/Tutorials
 
 * *Computational Fairy Tales*
+
+* Tiltshift effect for photography (GIMP): http://www.asawicki.info/news_1574_making_tilt-shift_photo_in_gimp.html
+
+* Read excerpts from the *The Singularity is Near*, particularly find a concise definition of technological singularity, timeline, and "posthuman"
