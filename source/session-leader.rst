@@ -42,8 +42,24 @@ Recommended Resources
 
 * http://www.principiadiscordia.com/downloads/CodexSeraphinianus.pdf (*Codex Seraphinianus*)
 
-* *Principia Discordia* and the concept of *fnord*: http://www.principiadiscordia.com/downloads/Principia%20Discordia%20%28Wholly%201st%20Edition%29.pdf (Holy first edition). All of postmodernism in a few pages
+* *Principia Discordia* and the concept of *fnord*: http://www.principiadiscordia.com/downloads/Principia%20Discordia%20%28Wholly%201st%20Edition%29.pdf (Holy first edition).
 
- * *Voynic Manuscript*:  http://www.holybooks.com/voynich-manuscript-codex-serahinianus-pdf
+  All of postmodernism in a few pages
 
- *
+* *Voynic Manuscript*:  http://www.holybooks.com/voynich-manuscript-codex-serahinianus-pdf
+
+* *Program or Be Programmed*, Rushkoff. Focus an initial chapters, or summary of commandments ....this is answers the question "why am I in this program?"
+
+* Databending: http://www.intelligentmachinery.net/?page_id=29
+
+* databending/glitch art primer:
+
+    1. http://www.animalswithinanimals.com/stallio/2008/08/databending-and-glitch-art-primer-part.html
+
+    2. http://blog.animalswithinanimals.com/2008/09/databending-and-glitch-art-primer-part.html
+
+* Databending Glitch art tutorial: with complex tutorials; more importantly, why this matters: http://nickbriz.com/glitchcodectutorial/
+
+* Links to databending techniques/tutorials: http://danieltemkin.com/Tutorials
+
+* *Computational Fairy Tales*
